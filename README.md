@@ -1,22 +1,22 @@
 # FocusToDo
 
-macOS 向けミニマルなポモドーロタイマーアプリ。
+A minimal Pomodoro timer app for macOS.
 
-## 特徴
+## Features
 
-- ポモドーロタイマー (25分ワーク / 5分休憩)
-- ディープワークモード (50分)
-- フローティングウィンドウ (常に最前面に表示)
-- 画面端のカラーインジケーター
+- Pomodoro timer (25 min work / 5 min break)
+- Deep work mode (50 min)
+- Floating window (always on top)
+- Screen edge color indicator
 
-## インストール
+## Installation
 
-1. [Releases](https://github.com/wildgeece96/focus-todo/releases) ページから最新の zip をダウンロード
-2. zip を展開
-3. `FocusToDo.app` を `/Applications` フォルダに移動
-4. 初回起動時に「開発元を確認できない」と表示された場合:
-   - `FocusToDo.app` を右クリック →「開く」を選択
+1. Download the latest zip from the [Releases](https://github.com/wildgeece96/focus-todo/releases) page
+2. Unzip the archive
+3. Move `FocusToDo.app` to `/Applications`
+4. On first launch, if you see "unidentified developer" warning:
+   - Right-click `FocusToDo.app` → Select "Open"
 
-## 動作環境
+## Requirements
 
-- macOS 14 (Sonoma) 以降
+- macOS 14 (Sonoma) or later
