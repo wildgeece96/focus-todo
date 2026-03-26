@@ -1,4 +1,4 @@
-# FocusToDo
+# Bout
 
 A minimal Pomodoro timer app for macOS.
 
@@ -11,11 +11,11 @@ A minimal Pomodoro timer app for macOS.
 
 ## Installation
 
-1. Download the latest zip from the [Releases](https://github.com/wildgeece96/focus-todo/releases) page
+1. Download the latest zip from the [Releases](https://github.com/wildgeece96/bout/releases) page
 2. Unzip the archive
-3. Move `FocusToDo.app` to `/Applications`
+3. Move `Bout.app` to `/Applications`
 4. On first launch, if you see "unidentified developer" warning:
-   - Right-click `FocusToDo.app` → Select "Open"
+   - Right-click `Bout.app` → Select "Open"
 
 ## Requirements
 
